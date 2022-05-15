@@ -1,1 +1,1 @@
-worker: node aaa.py
+worker: node a.py
